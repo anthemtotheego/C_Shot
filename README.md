@@ -21,7 +21,7 @@ C_Shot is an offensive security tool written in C which is designed to download,
 
 **Quick blog:**
 
-ADD BLOG HERE
+http://blog.redxorblue.com/2020/07/cshot-just-what-doctor-ordered.html
 
 **Extras:**
 
